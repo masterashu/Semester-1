@@ -1,0 +1,9 @@
+.c1{
+    position: relative;
+    background-color: yellow;
+    height: 95vh;
+}
+.cin{
+    position: absolute;
+    background-color: red;
+}

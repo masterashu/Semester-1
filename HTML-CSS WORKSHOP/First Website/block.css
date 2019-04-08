@@ -1,0 +1,8 @@
+div {
+    background:yellow;
+}
+.float {
+    background:yellow;
+    margin: 15px;   
+    float: left;
+}
