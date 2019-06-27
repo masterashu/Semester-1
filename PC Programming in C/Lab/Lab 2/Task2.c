@@ -4,7 +4,6 @@
 */
 
 #include <conio.h>
-#include <stdio.h>
 
 int main(){
     int sumOfDigits = 0;
@@ -22,6 +21,5 @@ int main(){
         scanf("%c", &character);
     }
     printf("Sum of Odd digits is: %d", sumOfDigits);
-    getch();
     return 0;
 }
